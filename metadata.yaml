@@ -1,0 +1,31 @@
+_repo: The-Defence-of-Duffer-s-Drift_24842
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swinton, Ernest Dunlop
+    alias: Swinton, E. D. (Ernest Dunlop)
+    birthdate: 1868
+    deathdate: 1951
+    gutenberg_agent_id: '26765'
+    url: http://www.gutenberg.org/2009/agents/26765
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Dunlop_Swinton
+description: ''
+gutenberg_issued: '2008-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902'
+- !lcsh 'Guerrilla warfare'
+- !lcc 'U'
+- !lcsh 'Military art and science'
+- !lcsh 'Tactics'
+title: The Defence of Duffer's Drift
+url: http://www.gutenberg.org/ebooks/24842
