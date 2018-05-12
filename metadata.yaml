@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26765
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Dunlop_Swinton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24842#The-Defence-of-Duffer-s-Drift
 gutenberg_issued: '2008-03-16'
 gutenberg_type: Text
 identifiers:
